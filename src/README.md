@@ -4,6 +4,8 @@
 
 The project only requires writing code in TypeScript.
 
+---
+
 ## Main Features
 
 - Define an IProduct interface to represent the different items of beachwear (swimwear, parei, hats) produced with recycled plastic.
@@ -22,6 +24,8 @@ The project only requires writing code in TypeScript.
 
 - #### Production class: represents a specific production process used by the brand, manages products in production and the addition of new items.
 
+---
+
 ## Instantiate & Test
 
 - Instantiates some objects Product to represent the different items of beachwear produced with recycled plastic.
@@ -31,6 +35,8 @@ The project only requires writing code in TypeScript.
 - Create an instance of the ProcessProduction class for one or more sustainable manufacturing processes used by the brand, adding the instantiated products to the process.
 
 - Testing the logic of customer ordering and adding new items to production processes.
+
+---
 
 ## Result
 
