@@ -1,6 +1,4 @@
-# Sunnee - Brand
-
-![Sunnee Brand](https://via.placeholder.com/468x60/FF0000/FFFFFF?text=Sunnee+Brand)
+# ![Sunnee - Brand](https://via.placeholder.com/468x60/FF0000/FFFFFF?text=Sunnee+Brand)
 
 ### This project is part of the Typescript course offered by Start2Impact University and aims to develop a system in TypeScript that models the operational structure of a recycled plastic beachwear brand, focusing on customer interactions, beachwear products and sustainable production processes.
 
