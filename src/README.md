@@ -2,7 +2,9 @@
 
 ### This project is part of the Typescript course offered by Start2Impact University and aims to develop a system in TypeScript that models the operational structure of a recycled plastic beachwear brand, focusing on customer interactions, beachwear products and sustainable production processes.
 
-<u>The project only requires writing code in TypeScript.</u>
+_The project only requires writing code in TypeScript._
+
+---
 
 ---
 
@@ -18,11 +20,13 @@
 
 ### Follow these instructions:
 
-- #### <u>Product Class:</u> manages the information of each beachwear article and the allocation to customers.
+- #### _Product Class:_ manages the information of each beachwear article and the allocation to customers.
 
-- #### <u>Customer Class:</u> manages the information of customers and their ability to order products.
+- #### _Customer Class:_ manages the information of customers and their ability to order products.
 
-- #### <u>Production Class:</u> represents a specific production process used by the brand, manages products in production and the addition of new items.
+- #### _Production Class:_ represents a specific production process used by the brand, manages products in production and the addition of new items.
+
+---
 
 ---
 
@@ -35,6 +39,8 @@
 - Create an instance of the ProcessProduction class for one or more sustainable manufacturing processes used by the brand, adding the instantiated products to the process.
 
 - Testing the logic of customer ordering and adding new items to production processes.
+
+---
 
 ---
 
