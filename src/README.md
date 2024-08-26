@@ -6,13 +6,13 @@ The project only requires writing code in TypeScript.
 
 ## Main Features
 
-- #### Define an IProduct interface to represent the different items of beachwear (swimwear, parei, hats) produced with recycled plastic.
+- Define an IProduct interface to represent the different items of beachwear (swimwear, parei, hats) produced with recycled plastic.
 
-- #### Define an IClient interface to represent the brand’s customers.
+- Define an IClient interface to represent the brand’s customers.
 
-- #### Define an IProcessProduction interface to represent the sustainable manufacturing processes used by Sunnee.
+- Define an IProcessProduction interface to represent the sustainable manufacturing processes used by Sunnee.
 
-- #### Implements the Product, Customer, and ProcessProduction classes that implement the IProduct, IClient, and IProcessProduction interfaces respectively.
+- Implements the Product, Customer, and ProcessProduction classes that implement the IProduct, IClient, and IProcessProduction interfaces respectively.
 
 ### Follow these instructions:
 
@@ -24,13 +24,13 @@ The project only requires writing code in TypeScript.
 
 ## Instantiate & Test
 
-- #### Instantiates some objects Product to represent the different items of beachwear produced with recycled plastic.
+- Instantiates some objects Product to represent the different items of beachwear produced with recycled plastic.
 
-- #### Instance Customer objects to represent the brand’s customers.
+- Instance Customer objects to represent the brand’s customers.
 
-- #### Create an instance of the ProcessProduction class for one or more sustainable manufacturing processes used by the brand, adding the instantiated products to the process.
+- Create an instance of the ProcessProduction class for one or more sustainable manufacturing processes used by the brand, adding the instantiated products to the process.
 
-- #### Testing the logic of customer ordering and adding new items to production processes.
+- Testing the logic of customer ordering and adding new items to production processes.
 
 ## Result
 
